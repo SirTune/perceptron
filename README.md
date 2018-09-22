@@ -3,7 +3,12 @@
 
 Binary Perceptron neural network that import data to train and classify 3 classes of data and classify
 Test data.
-
+Seperate perceptron presents the resulting weights and accuracy against the training and test datasets.
+Several tests are conducted:
+* Individual comparisons (class 1 vs class 2 etc.)
+* one vs. rest (class 1 vs 2/3 etc.)
+* one vs. rest with a added L2 regularisation with coefficents between 0.01-100
+___
 Created and tested in PyCharm Community Edition 4.5.2
 
 Ensure following software applications is avalible:
