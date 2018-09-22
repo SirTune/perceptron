@@ -28,8 +28,6 @@ e.g.	M:>cd Perceptron
 
 2) Input 'python Perceptron.py' in the window to run the script.
 e.g.	M:\Perceptron>python Perceptron.py
-	
-3) Wait, until results has been printed.
 
 
 IDE (PyCharm, IDLE etc.):
@@ -39,7 +37,3 @@ IDE (PyCharm, IDLE etc.):
 e.g.	IDLE - Run > Run Module (F5)
 	PyCharm - Run > Run... (Alt+Shift+F10)
 				Select 'Perceptron'
-
-3) Wait, until results has been printed.
-
-Results will be printed for all questions in the assignment under the relevent titles. 
